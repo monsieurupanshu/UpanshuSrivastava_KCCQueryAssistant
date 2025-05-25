@@ -111,7 +111,7 @@ Includes:
 
 ## 🖼️ App Interface Preview
 
-![KCC Query Assistant UI](./KCC%20UI.png)
+<img width="675" alt="Image" src="https://github.com/user-attachments/assets/7188f9ca-f4c2-43eb-aa51-0583d5d28d48" />
 
 ---
 
