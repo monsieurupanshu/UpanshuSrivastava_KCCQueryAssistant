@@ -1,0 +1,18 @@
+**Regular Queries**
+
+* sowing time of moong
+* solar pump token generation
+* crop suggestions for April
+* urea subsidy scheme
+* when to harvest wheat
+* best time for paddy transplanting
+* rainfall prediction for May
+* organic fertilizer benefits
+* rainfall prediction for May
+
+**Fallback Queries**
+
+* best tractor brand
+* who is the agriculture minister
+* AI in farming
+* latest agri drone technology
