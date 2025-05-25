@@ -95,5 +95,25 @@ Includes:
 - ✅ 2–3 fallback examples (no context matched)
 - ✅ All responses generated **100% offline**
 
+---
+
+## ⚠️ Notes
+
+- `chroma_store/` is **not included** in the GitHub repo.  
+  → Run `embed_store.py` to regenerate the local Chroma vector database.
+
+- Ollama must be installed separately from [ollama.com](https://ollama.com).  
+  → Make sure it's running before using the assistant.
+
+- ✅ Tested on **macOS (Intel)** with **Python 3.10**
+
+---
+
+## 👥 Reviewer Access
+
+This repository is shared privately with **@vicharanalabs** for evaluation.
+
+
+
 
 
