@@ -109,6 +109,12 @@ Includes:
 
 ---
 
+## 🖼️ App Interface Preview
+
+![KCC Query Assistant UI](./KCC%20UI.png)
+
+---
+
 ## 🎨 Block Diagram
 
           ┌───────────────────────┐
