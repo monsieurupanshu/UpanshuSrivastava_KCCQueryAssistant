@@ -109,9 +109,8 @@ Includes:
 
 ---
 
-## 👥 Reviewer Access
-
-This repository is shared privately with **@vicharanalabs** for evaluation.
+This repository is **temporarily public** to allow access for evaluation.  
+The username **@vicharanalabs**, as mentioned in the form, could not be found on GitHub — so direct collaborator access was not possible.
 
 
 
